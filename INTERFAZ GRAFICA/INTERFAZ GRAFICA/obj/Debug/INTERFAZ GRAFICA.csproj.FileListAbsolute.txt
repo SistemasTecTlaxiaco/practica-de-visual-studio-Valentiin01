@@ -1,0 +1,10 @@
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\bin\Debug\INTERFAZ GRAFICA.exe.config
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\bin\Debug\INTERFAZ GRAFICA.exe
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\bin\Debug\INTERFAZ GRAFICA.pdb
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ GRAFICA.csprojAssemblyReference.cache
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ_GRAFICA.Form1.resources
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ_GRAFICA.Properties.Resources.resources
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ GRAFICA.csproj.GenerateResource.cache
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ GRAFICA.csproj.CoreCompileInputs.cache
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ GRAFICA.exe
+C:\Users\Gena\source\repos\INTERFAZ GRAFICA\INTERFAZ GRAFICA\obj\Debug\INTERFAZ GRAFICA.pdb
